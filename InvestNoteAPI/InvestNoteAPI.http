@@ -1,0 +1,6 @@
+@InvestNoteAPI_HostAddress = http://localhost:5153
+
+GET {{InvestNoteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

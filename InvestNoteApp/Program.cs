@@ -1,4 +1,4 @@
-using InvestNoteApp.Components;
+using InvestNoteAPP.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
